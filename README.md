@@ -1,7 +1,11 @@
+# Getting Started with Devlopment
 ```
-git clone https://github.com/computational-genomics-lab/eumicrobedb-ui.git
-cd EumicrobeDB-UI
+# clone the git repository
 
+git clone https://github.com/computational-genomics-lab/eumicrobedb-ui.git
+cd eumicrobedb-ui
+
+# Make changes and update the git repo
 # TO add a file to the github
 git add filename
 git commit -m 'test'

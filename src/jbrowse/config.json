@@ -1,0 +1,26 @@
+{
+  "assemblies": [
+    {
+      "name": "Phyag_NZFS3770.fna",
+      "sequence": {
+        "type": "ReferenceSequenceTrack",
+        "trackId": "Phyag_NZFS3770.fna-ReferenceSequenceTrack",
+        "adapter": {
+          "type": "IndexedFastaAdapter",
+          "fastaLocation": {
+            "uri": "Phyag_NZFS3770.fna"
+          },
+          "faiLocation": {
+            "uri": "Phyag_NZFS3770.fna.fai"
+          }
+        }
+      }
+    }
+  ],
+  "configuration": {},
+  "connections": [],
+  "defaultSession": {
+    "name": "New Session"
+  },
+  "tracks": []
+}

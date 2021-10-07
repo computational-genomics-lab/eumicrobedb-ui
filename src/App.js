@@ -1,10 +1,10 @@
-//import logo from './logo.svg';
-
-//new line
+import './App.css';
+import Nav from "./Nav";
 
 function App() {
   return (
     <div className="App">
+      <Nav />
       <h1> EumicrobeDB</h1>
     </div>
   );

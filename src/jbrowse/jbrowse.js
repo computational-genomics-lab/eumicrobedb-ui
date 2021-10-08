@@ -50,19 +50,19 @@ const tracks = [
       },
     },
   },
-  /*
+  
   {
-    trackID: "SSR_phy",
+    trackId: "SSR_phy",
     name: "SSR",
     assemblyNames:["Phyag_NZFS3770"],
     type: "QuantitativeTrack",
     adapter: {
-            type: "BigWig",
+            type: "BigWigAdapter",
             bigWigLocation: { uri: ssrbw },
     }
 
   },
-  */
+  
 ]
 
 const defaultSession = {
